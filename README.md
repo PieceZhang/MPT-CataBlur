@@ -2,6 +2,7 @@
 Yuelin Zhang, Pengyu Zheng, Wanquan Yan, Chengyu Fang, Shing Shin Cheng; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 11125-11136
 
 [**paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_A_Unified_Framework_for_Microscopy_Defocus_Deblur_with_Multi-Pyramid_Transformer_CVPR_2024_paper.html)
+/ [**supplementary material**](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zhang_A_Unified_Framework_CVPR_2024_supplemental.pdf)
 
 <div style="text-align: center;">
     <img src="assets/MPT.png" style="width: 100%;">
